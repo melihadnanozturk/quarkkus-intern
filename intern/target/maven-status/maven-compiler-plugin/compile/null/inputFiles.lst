@@ -1,0 +1,6 @@
+/home/adnan/Desktop/QuarkusDemo/intern/src/main/java/org/maoco/controller/MerchantController.java
+/home/adnan/Desktop/QuarkusDemo/intern/src/main/java/org/maoco/controller/request/NewMerchantRequest.java
+/home/adnan/Desktop/QuarkusDemo/intern/src/main/java/org/maoco/persistence/MerchantRepository.java
+/home/adnan/Desktop/QuarkusDemo/intern/src/main/java/org/maoco/persistence/entity/MerchantEntity.java
+/home/adnan/Desktop/QuarkusDemo/intern/src/main/java/org/maoco/service/MerchantService.java
+/home/adnan/Desktop/QuarkusDemo/intern/src/main/java/org/maoco/service/MerchantServiceImpl.java
